@@ -4,7 +4,6 @@
   "description": "Web Monitoring Panel for Colyseus",
   "input": "./src/index.ts",
   "main": "./build/index.js",
-  "module": "./build/index.mjs",
   "typings": "./build/index.d.ts",
   "scripts": {
     "start": "ts-node example/Server.ts",
